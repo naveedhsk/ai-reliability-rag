@@ -5,7 +5,7 @@ Welcome to my collection of product management case studies.
 ## Case Studies
 
 * [Bedsheets Launch](bedsheets.md)
-* [Facebook bought Instagram for about $1 billion, even though Instagram was making not profitable. Why?](instagram.md)
+* [Facebook bought Instagram for about $1 billion, even though Instagram was Not profitable. Why?](instagram.md)
 
 ## About
 
