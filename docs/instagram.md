@@ -1,4 +1,4 @@
-####### Facebook bought Instagram for about $1 billion, even though Instagram was making not profitable. Why? ##########
+####### Facebook bought Instagram for about $1 billion, even though Instagram was Notprofitable. Why? ##########
 
 Understanding Instagram's Unique Value Proposition:
 
