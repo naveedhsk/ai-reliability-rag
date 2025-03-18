@@ -1,0 +1,7 @@
+site_name: Product Management Case Studies
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Bedsheets Launch: bedsheets.md
+  - Why Facebook Bought Instagram: instagram.md
