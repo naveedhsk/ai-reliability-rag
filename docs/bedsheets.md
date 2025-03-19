@@ -2,9 +2,9 @@
 
 Here’s a breakdown of effective tactics:
 
-U+25CF Black Circle Define Your Target Audience & Unique Selling Proposition (USP):
-U+25CF Black Circle Who are you selling to? (e.g-> eco-conscious consumers, luxury seekers, budget-minded shoppers, families, etc.) 
-U+25CF Black Circle What makes your bedsheets special? (e.g- organic materials, high thread count, unique designs, cooling technology, etc.)
+Define Your Target Audience & Unique Selling Proposition (USP):
+Who are you selling to? (e.g. eco-conscious consumers, luxury seekers, budget-minded shoppers, families, etc.) 
+Circle What makes your bedsheets special? (e.g organic materials, high thread count, unique designs, cooling technology, etc.)
 
 ** Pre-Launch Buzz:
 
