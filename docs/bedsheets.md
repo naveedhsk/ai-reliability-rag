@@ -6,7 +6,7 @@ Define Your Target Audience & Unique Selling Proposition (USP):
 Who are you selling to? (e.g. eco-conscious consumers, luxury seekers, budget-minded shoppers, families, etc.) 
 Circle What makes your bedsheets special? (e.g organic materials, high thread count, unique designs, cooling technology, etc.)
 
-** Pre-Launch Buzz:
+## Pre-Launch Buzz:
 
 * Teaser Campaign: 
     Create anticipation with cryptic social media posts, email newsletters, or website countdowns. 
@@ -62,7 +62,7 @@ Circle What makes your bedsheets special? (e.g organic materials, high thread co
 * Affiliate marketing:
    Create an affiliate program where bloggers, and other websites get a cut of sales that they generate.
 
-  ** Key Metrics to Track: 
+  ## Key Metrics to Track: 
    Website traffic and conversion rates
    Social media engagement and reach 
    Email open and click-through rates
