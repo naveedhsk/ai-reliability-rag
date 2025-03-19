@@ -62,7 +62,7 @@ U+25CF Black Circle What makes your bedsheets special? (e.g- organic materials, 
 * Affiliate marketing:
    Create an affiliate program where bloggers, and other websites get a cut of sales that they generate.
 
-* * Key Metrics to Track: 
+  ** Key Metrics to Track: 
    Website traffic and conversion rates
    Social media engagement and reach 
    Email open and click-through rates
