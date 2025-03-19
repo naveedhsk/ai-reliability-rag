@@ -1,4 +1,4 @@
-*** Launching a new line of bedsheets requires a multi-faceted promotional strategy to reach your target audience and drive sales. 
+# Launching a new line of bedsheets requires a multi-faceted promotional strategy to reach your target audience and drive sales. 
 
 Here’s a breakdown of effective tactics:
 
