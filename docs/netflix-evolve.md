@@ -1,5 +1,3 @@
-![](../src/images/netflix_evolve_enhancing_user_discovery_engagement.jpeg)
-
 
 # Netflix Evolve: Enhancing User Discovery & Engagement Through Interactive Content Previews
 
@@ -10,11 +8,11 @@ Netflix users often struggle to find content they genuinely enjoy amidst the vas
 ICPs will allow users to interact with short, dynamic previews that go beyond traditional trailers.
 
 These previews will include:
-Short, branching narrative segments allowing users to make minor choices that impact the preview's outcome.
-Interactive quizzes or polls related to the content's themes or characters.
-"Behind-the-scenes" snippets with commentary or character insights.
-Dynamic previews that change based on the users previous viewing history.
-ICPs will be integrated into the content detail page, offering a more immersive and personalized preview experience.
+* Short, branching narrative segments allowing users to make minor choices that impact the preview's outcome.
+* Interactive quizzes or polls related to the content's themes or characters.
+* "Behind-the-scenes" snippets with commentary or character insights.
+* Dynamic previews that change based on the users previous viewing history.
+* ICPs will be integrated into the content detail page, offering a more immersive and personalized preview experience.
 
 ## Launch Plan:
 ## Phase 1: Experimentation & Pilot (3 Months)
