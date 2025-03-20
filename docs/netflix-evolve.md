@@ -18,13 +18,13 @@ These previews will include:
 ## Phase 1: Experimentation & Pilot (3 Months)
 ## Objective: Validate the concept and gather initial user feedback.
 Steps:
-Select Pilot Content: Choose 3-5 diverse titles (e.g., a comedy, drama, and documentary) for the initial ICP implementation.
-Develop ICP Prototypes: Create interactive preview segments for the selected titles, focusing on different interaction types (branching narratives, quizzes, behind-the-scenes).
-Targeted Pilot Launch: Deploy the ICPs to a small, randomly selected segment of users (e.g., 5-10% of users in a specific region).
-Data Collection & Analysis: Track key metrics:ICP engagement (completion rate, interaction frequency).
-Content viewing rates for users who interacted with ICPs vs. those who didn't.
-User feedback through surveys and in-app prompts.
-User satisfaction with the ICP feature.
+* Select Pilot Content: Choose 3-5 diverse titles (e.g., a comedy, drama, and documentary) for the initial ICP implementation.
+* Develop ICP Prototypes: Create interactive preview segments for the selected titles, focusing on different interaction types (branching narratives, quizzes, behind-the-scenes).
+* Targeted Pilot Launch: Deploy the ICPs to a small, randomly selected segment of users (e.g., 5-10% of users in a specific region).
+* Data Collection & Analysis: Track key metrics:ICP engagement (completion rate, interaction frequency).
+* Content viewing rates for users who interacted with ICPs vs. those who didn't.
+* User feedback through surveys and in-app prompts.
+* User satisfaction with the ICP feature.
 Iterate & Refine: Based on initial data, refine the ICP design and interaction types.
 
 ## Phase 2: Expanded Rollout & Feature Enhancement (6 Months)
