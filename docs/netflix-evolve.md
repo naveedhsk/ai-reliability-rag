@@ -1,3 +1,6 @@
+![M](../src/images/netflix_evolve_enhancing_user_discovery_engagement.mp4)
+
+
 # Netflix Evolve: Enhancing User Discovery & Engagement Through Interactive Content Previews
 
 Problem Statement:
