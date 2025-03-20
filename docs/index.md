@@ -16,4 +16,4 @@ This site contains case studies that explore various aspects of product manageme
 Feel free to browse and learn.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/naveedh-sk/).
--Naveedh SK
+- Naveedh SK
