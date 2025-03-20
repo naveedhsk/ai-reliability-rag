@@ -13,7 +13,11 @@ Product Management in Action: Browse my curated collection of case studies showc
 
 This site contains case studies that explore various aspects of product management.
 
-Feel free to browse and learn.
+I have 16 years of experience in the tech industry on the engineering side, with over 10 years at Comcast. Recently, I've been working on case studies focused on successful product launches, user engagement, user retention, and growth strategies.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/naveedh-sk/).
-- Naveedh SK
+I am also an AWS Certified Security - Specialty and AWS Certified Solutions Architect - Professional. This demonstrates my deep understanding of cloud infrastructure, security best practices, and the ability to design and implement scalable, secure solutions – skills that are highly transferable to technical product management.
+
+I am driven to contribute my deep technical understanding and proven expertise in user engagement, growth strategies, and product launches to impactful Product Management, where I can build exceptional products that drive innovation and success.
+
+-Naveedh
+Connect with me on [LinkedIn](https://www.linkedin.com/in/naveedh-sk/)
