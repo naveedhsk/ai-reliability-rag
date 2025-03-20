@@ -9,7 +9,7 @@ Netflix users often struggle to find content they genuinely enjoy amidst the vas
 ## Proposed Feature: Interactive Content Previews (ICPs)
 ICPs will allow users to interact with short, dynamic previews that go beyond traditional trailers.
 
-## These previews will include:
+These previews will include:
 Short, branching narrative segments allowing users to make minor choices that impact the preview's outcome.
 Interactive quizzes or polls related to the content's themes or characters.
 "Behind-the-scenes" snippets with commentary or character insights.
