@@ -1,6 +1,6 @@
 As a Transistioning Product Management professional with 16 years of tech industry experience, including a decade at Comcast, I bring a unique blend of technical depth and product strategy to the table. 
 
-#My AWS Certifications:**
+##My AWS Certifications:
 
   *AWS Certified Security - Specialty:** Demonstrates my expertise in implementing robust security practices within cloud environments.
   *AWS Certified Solutions Architect - Professional:** Validates my ability to design scalable, high-performing cloud architectures.
