@@ -15,7 +15,7 @@ These certifications aren't just technical badges; they represent a deep underst
  * **Data-Driven Architecture:** The Solutions Architect - Professional certification enables me to design product architectures that are optimized for performance and data analysis.
  * **Faster Product Development:** I can reduce onboarding time for technical products, and have a strong understanding of how the product is built.
 
-# In essence, my AWS certifications provide a foundation for building innovative, secure, and scalable products that meet Customer needs and drive business success.**
+# In essence, my AWS certifications provide a foundation for building innovative, secure, and scalable products that meet Customer needs and drive business success.
 
 Let's connect to discuss how my expertise can add value to your product team.
 
