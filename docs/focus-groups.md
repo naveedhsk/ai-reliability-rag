@@ -1,10 +1,10 @@
-#What are Focus Groups?
+# What are Focus Groups?
 
 **Definition:** Focus groups are moderated discussions with a small group of target users (typically 6-10 people) to gather qualitative feedback on a product, feature, or concept.
 * **Purpose:** They aim to uncover user needs, preferences, pain points, and attitudes in a more interactive and in-depth way than surveys.
 * **Qualitative Data:** Focus groups provide rich, qualitative data, which helps understand the "why" behind user behaviors and preferences.
 
-#Importance in Product Management:
+# Importance in Product Management:
 
 * **User Empathy:** They help you develop a deeper understanding of your target audience.
 * **Early Feedback:** They allow you to gather feedback early in the product development process, preventing costly mistakes.
@@ -43,7 +43,7 @@
 *"What would make this product more useful for you?"
 *"Describe a time when you..."
 
-#Define Your Target Audience:**
+# Define Your Target Audience:**
 
 *Who are your primary users? Before you start recruiting, clearly define your target audience based on factors like:
 *Demographics: Age, gender, location, income, education.
@@ -66,4 +66,4 @@ Segment users by technical proficiency (early adopters, mainstream users).
 Segment users by home ownership (homeowners, renters).
 Segment users by family structure (single, families with children).
 
-*By understanding these fundamentals and actively seeking opportunities to learn, you'll quickly gain proficiency in using focus groups as a valuable product management tool.
+**By understanding these fundamentals and actively seeking opportunities to learn, you'll quickly gain proficiency in using focus groups as a valuable product management tool.
