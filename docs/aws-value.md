@@ -5,7 +5,7 @@ As a Transistioning product management professional with 16 years of tech indust
   **AWS Certified Security - Specialty:** Demonstrates my expertise in implementing robust security practices within cloud environments.
   **AWS Certified Solutions Architect - Professional:** Validates my ability to design scalable, high-performing cloud architectures.
 
- #Value Proposition for Product Management:
+ # Value Proposition for Product Management:
 
 These certifications aren't just technical badges; they represent a deep understanding of the infrastructure that powers modern digital products. This translates to:
 
