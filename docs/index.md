@@ -6,8 +6,9 @@ Product Management in Action: Browse my curated collection of case studies, lear
 * [Facebook bought Instagram for about $1 billion, even though Instagram was Not profitable. Why?](instagram.md)
 * [Enhancing AI Personalization: A Product Strategy for Media Platforms](personalization.md)
 * [Netflix Evolve: Enhancing User Discovery & Engagement Through Interactive Content Previews](netflix-evolve.md)
+* [Ad-Free Instagram: A Global Product Strategy?](adfree-instagram.md)
 
-## 
+#Value-Proposition
 * [How my AWS certs bring value](aws-value.md)
 
 
