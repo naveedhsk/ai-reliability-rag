@@ -9,6 +9,7 @@ Product Management in Action: Browse my curated collection of case studies, lear
 * [Building User-Centric Products: The Essential Role of Focus Groups](focus-groups.md)
 * [Minimizing Buffering on Netflix: A Product Approach](improve-buffering.md)
 * [Bedsheets Launch](bedsheets.md)
+* [Beyond Solo Reels: Innovating Snapchat's Video Content](reels-snapchat.md)
   
 ## Value-Proposition
 * [How my AWS certs bring value](aws-value.md)
