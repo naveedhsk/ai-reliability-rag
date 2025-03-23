@@ -1,6 +1,4 @@
-# Product Management Case Studies
-
-Product Management in Action: Browse my curated collection of case studies showcasing real-world product management challenges and solutions.
+Product Management in Action: Browse my curated collection of case studies, learnings, thoughts showcasing real-world product management challenges and solutions.
 
 ## Case Studies
 
