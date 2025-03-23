@@ -10,7 +10,7 @@ Product Management in Action: Browse my curated collection of case studies, lear
 * [Minimizing Buffering on Netflix: A Product Approach](improve-buffering.md)
 * [Bedsheets Launch](bedsheets.md)
   
-#Value-Proposition
+# Value-Proposition
 * [How my AWS certs bring value](aws-value.md)
 
 
