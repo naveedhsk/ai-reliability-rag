@@ -8,7 +8,7 @@ Product Management in Action: Browse my curated collection of case studies, lear
 * [Netflix Evolve: Enhancing User Discovery & Engagement Through Interactive Content Previews](netflix-evolve.md)
 * [Ad-Free Instagram: A Global Product Strategy?](adfree-instagram.md)
 
-#Value-Proposition
+##Value-Proposition
 * [How my AWS certs bring value](aws-value.md)
 
 
