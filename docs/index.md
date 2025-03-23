@@ -8,7 +8,7 @@ Product Management in Action: Browse my curated collection of case studies, lear
 * [Netflix Evolve: Enhancing User Discovery & Engagement Through Interactive Content Previews](netflix-evolve.md)
 
 ## 
-* [How my aws certs bring value](cert-value.md)
+* [How my aws certs bring value](aws-value.md)
 
 
 ## About
