@@ -1,6 +1,6 @@
 #What are Focus Groups?
 
-* **Definition: Focus groups are moderated discussions with a small group of target users (typically 6-10 people) to gather qualitative feedback on a product, feature, or concept.
+**Definition: Focus groups are moderated discussions with a small group of target users (typically 6-10 people) to gather qualitative feedback on a product, feature, or concept.
 * **Purpose: They aim to uncover user needs, preferences, pain points, and attitudes in a more interactive and in-depth way than surveys.
 * **Qualitative Data: Focus groups provide rich, qualitative data, which helps understand the "why" behind user behaviors and preferences.
 
