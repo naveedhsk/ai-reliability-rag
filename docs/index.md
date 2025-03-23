@@ -8,7 +8,7 @@ Product Management in Action: Browse my curated collection of case studies, lear
 * [Ad-Free Instagram: A Global Product Strategy?](adfree-instagram.md)
 * [Building User-Centric Products: The Essential Role of Focus Groups](focus-groups.md)
 * [Minimizing Buffering on Netflix: A Product Approach](improve-buffering.md)
-* [Bedsheets Launch](bedsheets.md)
+* [Bedsheets Launch Campaign](bedsheets.md)
 * [Beyond Solo Reels: Innovating Snapchat's Video Content](reels-snapchat.md)
   
 ## Value-Proposition
