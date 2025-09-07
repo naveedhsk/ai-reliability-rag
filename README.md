@@ -41,8 +41,8 @@ python ask_cli.py --db ./chroma_db --q "What are the four functions of the AI RM
 
 ### Option B — Run in Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/naveedhsk/ai-reliability-rag/blob/main/notebooks/demo.ipynb)
+[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/naveedhsk/ai-reliability-rag/blob/main/notebooks/demo.ipynb)](https://colab.research.google.com/drive/1vHKaSRZp5fOoFYBKJ4nAZDP2r9Ta-0Cd?usp=sharing#scrollTo=216NrG3_DcNw)
 
 ```bash
 📊 Week-1 Baseline Metrics
