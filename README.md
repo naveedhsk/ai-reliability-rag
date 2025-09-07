@@ -37,7 +37,10 @@ python ingest.py --data_dir ./data --db ./chroma_db
 # Ask questions
 python ask_cli.py --db ./chroma_db --q "What are the four functions of the AI RMF?"
 
+```
+
 ### Option B — Run in Colab
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/naveedhsk/ai-reliability-rag/blob/main/notebooks/demo.ipynb)
 
