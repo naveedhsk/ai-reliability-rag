@@ -44,7 +44,7 @@ python ask_cli.py --db ./chroma_db --q "What are the four functions of the AI RM
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/naveedhsk/ai-reliability-rag/blob/main/notebooks/demo.ipynb)
 
-
+```bash
 📊 Week-1 Baseline Metrics
 
 Queries: 10
@@ -64,6 +64,7 @@ Top relevant excerpts:
 
 === SOURCES ===
 - nist.ai.100-1.pdf (p.12)
+```
 
 📂 Structure
 .
@@ -75,7 +76,7 @@ Top relevant excerpts:
 ├── logs/             # Auto-created query logs
 └── docs/             # Metrics, screenshots, write-ups
 
-📅 Roadmap
+## 📅 Roadmap
 
 Week-1: ✅ Baseline retrieval + metrics
 
@@ -89,7 +90,7 @@ Week-5: 5 pragmatic controls (Governance Lite)
 
 Week-6: Incident drill + final report
 
-✍️ Author
+## ✍️ Author
 
 Built by Naveedh SK
 Exploring AI Reliability / Platform AI-Ops
