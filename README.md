@@ -37,3 +37,59 @@ python ingest.py --data_dir ./data --db ./chroma_db
 # Ask questions
 python ask_cli.py --db ./chroma_db --q "What are the four functions of the AI RMF?"
 
+### Option B — Run in Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/naveedhsk/ai-reliability-rag/blob/main/notebooks/demo.ipynb)
+
+
+📊 Week-1 Baseline Metrics
+
+Queries: 10
+
+Latency p95: 0.45s
+
+No-citation rate: 10%
+
+Error rate: 0%
+
+Example output
+Q: What are the four functions of the AI RMF?
+
+=== ANSWER ===
+Top relevant excerpts:
+- (nist.ai.100-1.pdf:12) Map, Measure, Manage, Govern are the four core functions...
+
+=== SOURCES ===
+- nist.ai.100-1.pdf (p.12)
+
+📂 Structure
+.
+├── ingest.py         # Ingest PDFs → Chroma
+├── ask_cli.py        # Query & log answers
+├── util.py           # PDF loader + chunker
+├── requirements.txt
+├── data/             # Place PDFs here (not tracked)
+├── logs/             # Auto-created query logs
+└── docs/             # Metrics, screenshots, write-ups
+
+📅 Roadmap
+
+Week-1: ✅ Baseline retrieval + metrics
+
+Week-2: Add SLOs + runbook + observability
+
+Week-3: Eval harness (factuality, refusals, prompt-injection probes)
+
+Week-4: Cost-per-answer lens (FinOps Lite)
+
+Week-5: 5 pragmatic controls (Governance Lite)
+
+Week-6: Incident drill + final report
+
+✍️ Author
+
+Built by Naveedh SK
+Exploring AI Reliability / Platform AI-Ops
+Follow the journey → LinkedIn https://www.linkedin.com/in/naveedh-sk/
+
+
