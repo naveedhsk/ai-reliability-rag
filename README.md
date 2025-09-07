@@ -65,7 +65,7 @@ Top relevant excerpts:
 === SOURCES ===
 - nist.ai.100-1.pdf (p.12)
 ```
-
+```bash
 📂 Structure
 .
 ├── ingest.py         # Ingest PDFs → Chroma
@@ -75,7 +75,7 @@ Top relevant excerpts:
 ├── data/             # Place PDFs here (not tracked)
 ├── logs/             # Auto-created query logs
 └── docs/             # Metrics, screenshots, write-ups
-
+```
 ## 📅 Roadmap
 
 Week-1: ✅ Baseline retrieval + metrics
