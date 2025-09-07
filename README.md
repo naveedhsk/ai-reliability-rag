@@ -92,8 +92,8 @@ Week-6: Incident drill + final report
 
 ## ✍️ Author
 
-Built by Naveedh SK
-Exploring AI Reliability / Platform AI-Ops
-Follow the journey → LinkedIn https://www.linkedin.com/in/naveedh-sk/
+Built by Naveedh SK  
+Exploring AI Reliability / Platform AI-Ops  
+Follow the journey → LinkedIn https://www.linkedin.com/in/naveedh-sk/  
 
 
