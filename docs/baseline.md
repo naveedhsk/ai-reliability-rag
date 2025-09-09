@@ -10,11 +10,20 @@ PDFs → chunk → embed (all-MiniLM-L6-v2) → Chroma → retrieve top-K → re
 - Error rate: 0%
 
 ## Screenshots
-1. CLI Q&A output
-2. Another query
-3. Metrics table
+![Example Q&A](../docs/screenshots/)  
+![Metrics Summary](../docs/screenshots/rza1)
 
 ## Known issues
 - Slow ingest for very large PDFs
 - Occasional empty results
 - No generation step yet
+
+
+## Screenshots
+![Example Q&A](../docs/screenshots/query_example.png)  
+![Metrics Summary](../docs/screenshots/metrics_table.png)
+
+## Known issues
+- PDF extraction sometimes noisy  
+- Retrieval only, no LLM generation yet  
+- Next: add SLOs + observability
