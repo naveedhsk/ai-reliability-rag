@@ -10,8 +10,8 @@ PDFs → chunk → embed (all-MiniLM-L6-v2) → Chroma → retrieve top-K → re
 - Error rate: 0%
 
 ## Screenshots
-![Example Q&A](../docs/screenshots/)  
-![Metrics Summary](../docs/screenshots/rza1)
+![Example Q&A -1 ](../docs/screenshots/)  
+![Metrics Summary](../docs/screenshots/metrics-screenshot.png)
 
 ## Known issues
 - Slow ingest for very large PDFs
