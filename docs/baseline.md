@@ -10,9 +10,10 @@ PDFs → chunk → embed (all-MiniLM-L6-v2) → Chroma → retrieve top-K → re
 - Error rate: 0%
 
 ## Screenshots
-![Example Q&A -1 ](../docs/screenshots/Screenshot - Answer for query-What are the characteristics of trustworthy AI in the NIST AI RMF?.png/)
-![Example Q&A -2 ](../docs/screenshots/Screenshot -Answer for query-What risk categories are described in the NIST AI RMF?.png/)
-![Metrics Summary](../docs/screenshots/)
+(../docs/screenshots/)
+![Example Q&A -1 ]
+![Example Q&A -2 ]
+![Metrics Summary]
 
 ## Known issues
 - Slow ingest for very large PDFs
