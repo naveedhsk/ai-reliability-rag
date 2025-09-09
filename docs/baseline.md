@@ -20,7 +20,7 @@ PDFs → chunk → embed (all-MiniLM-L6-v2) → Chroma → retrieve top-K → re
 
 
 ## Screenshots
-![Example Q&A](../docs/screenshots/query_example.png)  
+![Example Q&A](../docs/screenshots/Screenshot - Answer for query-What are the characteristics of trustworthy AI in the NIST AI RMF?.png)  
 ![Metrics Summary](../docs/screenshots/metrics_table.png)
 
 ## Known issues
