@@ -5,7 +5,7 @@ PDFs → chunk → embed (all-MiniLM-L6-v2) → Chroma → retrieve top-K → re
 
 ## Metrics (from logs/interactions.csv)
 - Queries: 10
-- Latency p95: 0.45s
+- Latency p95: 0.41s
 - No-citation rate: 10%
 - Error rate: 0%
 
