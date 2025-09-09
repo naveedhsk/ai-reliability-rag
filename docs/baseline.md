@@ -10,7 +10,7 @@ PDFs → chunk → embed (all-MiniLM-L6-v2) → Chroma → retrieve top-K → re
 - Error rate: 0%
 
 ## Screenshots
-![Example Q&A -1 ](../docs/screenshots/)
+![Example Q&A -1 ](../docs/screenshots/Screenshot - Answer for query-What are the characteristics of trustworthy AI in the NIST AI RMF?.png)
 ![Example Q&A -2 ](../docs/screenshots/)
 ![Metrics Summary](../docs/screenshots/)
 
