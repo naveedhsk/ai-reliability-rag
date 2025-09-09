@@ -10,7 +10,7 @@ PDFs → chunk → embed (all-MiniLM-L6-v2) → Chroma → retrieve top-K → re
 - Error rate: 0%
 
 ## Screenshots
-[](../docs/screenshots/)
+[Screenshots link](../docs/screenshots/)
  
 Example Q&A -1 
 Example Q&A -2 
