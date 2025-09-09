@@ -12,9 +12,9 @@ PDFs → chunk → embed (all-MiniLM-L6-v2) → Chroma → retrieve top-K → re
 ## Screenshots
 [Screenshots link](../docs/screenshots/)
  
-Example Q&A -1 
-Example Q&A -2 
-Metrics Summary
+Example Q&A -1  
+Example Q&A -2  
+Metrics Summary  
 
 ## Known issues
 - Slow ingest for very large PDFs
